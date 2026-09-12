@@ -1,0 +1,355 @@
+{
+  "categories": [
+    {
+      "categoryId": "CAT001",
+      "categoryName": "Food & Dining",
+      "icon": "🍽️",
+      "file": "food-dining.json",
+      "subCategories": "Restaurants,Cafes,Fast Food,Street Food,Tiffin Services",
+      "sortOrder": "1",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT002",
+      "categoryName": "Grocery & Kirana",
+      "icon": "🛒",
+      "file": "grocery-kirana.json",
+      "subCategories": "Supermarkets,Kirana Stores,Organic Stores,Fruits & Vegetables,Meat & Poultry",
+      "sortOrder": "2",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT003",
+      "categoryName": "Health & Medical",
+      "icon": "🏥",
+      "file": "health-medical.json",
+      "subCategories": "Doctors,Dentists,Diagnostic Labs,Pharmacies,Ayurvedic Centers,Homeopathy",
+      "sortOrder": "3",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT004",
+      "categoryName": "Beauty & Personal Care",
+      "icon": "💇",
+      "file": "beauty-personal-care.json",
+      "subCategories": "Salons,Beauty Parlors,Makeup Artists,Skin Care,Nail Art,Spa",
+      "sortOrder": "4",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT005",
+      "categoryName": "Fitness & Wellness",
+      "icon": "💪",
+      "file": "fitness-wellness.json",
+      "subCategories": "Gyms,Yoga Centers,Zumba,Personal Trainers,Swimming Pools",
+      "sortOrder": "5",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT006",
+      "categoryName": "Education & Learning",
+      "icon": "📚",
+      "file": "education-learning.json",
+      "subCategories": "Pre-Schools,Coaching Classes,Language Classes,Computer Training,Music Classes",
+      "sortOrder": "6",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT007",
+      "categoryName": "Fashion & Apparel",
+      "icon": "👗",
+      "file": "fashion-apparel.json",
+      "subCategories": "Ethnic Wear,Western Wear,Kids Wear,Footwear,Accessories,Tailoring",
+      "sortOrder": "7",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT008",
+      "categoryName": "Jewelry & Gold",
+      "icon": "💎",
+      "file": "jewelry-gold.json",
+      "subCategories": "Gold Jewelry,Silver Jewelry,Diamond Jewelry,Gold Exchange,Bridal Sets",
+      "sortOrder": "8",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT009",
+      "categoryName": "Electronics & Gadgets",
+      "icon": "📱",
+      "file": "electronics-gadgets.json",
+      "subCategories": "Mobiles,Laptops,Home Appliances,TV & Audio,AC Dealers,Repair Services",
+      "sortOrder": "9",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT010",
+      "categoryName": "Home & Interior",
+      "icon": "🏠",
+      "file": "home-interior.json",
+      "subCategories": "Furniture,Home Decor,Curtains,Modular Kitchen,Bathroom Fittings,Interior Designers",
+      "sortOrder": "10",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT011",
+      "categoryName": "Automotive",
+      "icon": "🚗",
+      "file": "automotive.json",
+      "subCategories": "Car Dealers,Bike Dealers,Car Servicing,Bike Servicing,Car Wash,Spare Parts",
+      "sortOrder": "11",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT012",
+      "categoryName": "Domestic Services",
+      "icon": "🧹",
+      "file": "domestic-services.json",
+      "subCategories": "Housekeeping,Cook Services,Baby Care,Elderly Care,Pest Control,Cleaning",
+      "sortOrder": "12",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT013",
+      "categoryName": "IT & Digital Services",
+      "icon": "💻",
+      "file": "it-digital-services.json",
+      "subCategories": "Web Development,App Development,Digital Marketing,SEO,Graphic Design,Photography",
+      "sortOrder": "13",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT014",
+      "categoryName": "Logistics & Movers",
+      "icon": "🚚",
+      "file": "logistics-movers.json",
+      "subCategories": "Packers & Movers,Local Transport,Tempo Rentals,Courier Services,Storage",
+      "sortOrder": "14",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT015",
+      "categoryName": "Hospitality & Travel",
+      "icon": "🏨",
+      "file": "hospitality-travel.json",
+      "subCategories": "Hotels,Resorts,Homestays,PG,Travel Agents,Cab Services,Tour Operators",
+      "sortOrder": "15",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT016",
+      "categoryName": "Entertainment & Events",
+      "icon": "🎮",
+      "file": "entertainment-events.json",
+      "subCategories": "Movie Theaters,Gaming Zones,Event Organizers,Wedding Planners,Decorators",
+      "sortOrder": "16",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT017",
+      "categoryName": "Kids & Baby",
+      "icon": "👶",
+      "file": "kids-baby.json",
+      "subCategories": "Kids Toys,Baby Products,Kids Clothing,School Supplies,Play Areas",
+      "sortOrder": "17",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT018",
+      "categoryName": "Books & Stationery",
+      "icon": "📚",
+      "file": "books-stationery.json",
+      "subCategories": "Bookstores,Textbooks,Stationery,Xerox Services,Library,Book Binding",
+      "sortOrder": "18",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT019",
+      "categoryName": "Gardening & Outdoor",
+      "icon": "🌿",
+      "file": "gardening-outdoor.json",
+      "subCategories": "Plant Nurseries,Garden Tools,Landscaping,Indoor Plants,Flower Shops",
+      "sortOrder": "19",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT020",
+      "categoryName": "Pet Care",
+      "icon": "🐶",
+      "file": "pet-care.json",
+      "subCategories": "Pet Shops,Pet Grooming,Veterinary Clinics,Pet Boarding,Pet Food",
+      "sortOrder": "20",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT021",
+      "categoryName": "Real Estate & Property",
+      "icon": "🏗️",
+      "file": "real-estate-property.json",
+      "subCategories": "Property Dealers,Real Estate Agents,Builders,Rental Services,Valuation",
+      "sortOrder": "21",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT022",
+      "categoryName": "Finance & Legal",
+      "icon": "💰",
+      "file": "finance-legal.json",
+      "subCategories": "Banks,Loan Agents,Insurance,Tax Consultants,Lawyers,CA Services",
+      "sortOrder": "22",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT023",
+      "categoryName": "Packaging & Printing",
+      "icon": "📦",
+      "file": "packaging-printing.json",
+      "subCategories": "Printing Services,Packaging,Flex Printing,Business Cards,Invitations",
+      "sortOrder": "23",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT024",
+      "categoryName": "Cafes & Quick Bites",
+      "icon": "☕",
+      "file": "cafes-quick-bites.json",
+      "subCategories": "Tea Stalls,Coffee Shops,Sandwich Shops,Pani Puri,Vada Pav,Juice Centers",
+      "sortOrder": "24",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT025",
+      "categoryName": "Shopping & Retail",
+      "icon": "🛍️",
+      "file": "shopping-retail.json",
+      "subCategories": "Shopping Malls,Boutiques,Handicraft,Gift Shops,Luggage,Perfume",
+      "sortOrder": "25",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT026",
+      "categoryName": "Communication & Internet",
+      "icon": "📞",
+      "file": "communication-internet.json",
+      "subCategories": "Mobile Recharge,Internet Providers,Cable TV,DTH,Telephone",
+      "sortOrder": "26",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT027",
+      "categoryName": "Security Services",
+      "icon": "🔐",
+      "file": "security-services.json",
+      "subCategories": "Security Guards,CCTV Installation,Home Security,Car Tracking",
+      "sortOrder": "27",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT028",
+      "categoryName": "Alternative Medicine",
+      "icon": "🌿",
+      "file": "alternative-medicine.json",
+      "subCategories": "Yoga Therapists,Naturopathy,Acupuncture,Reiki,Meditation",
+      "sortOrder": "28",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT029",
+      "categoryName": "Photography & Video",
+      "icon": "📸",
+      "file": "photography-video.json",
+      "subCategories": "Wedding Photographers,Event Photographers,Studio,Video Editing,Drone",
+      "sortOrder": "29",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT030",
+      "categoryName": "Celebrations & Gifts",
+      "icon": "🎂",
+      "file": "celebrations-gifts.json",
+      "subCategories": "Cake Shops,Florists,Gift Shops,Balloon Decorators,Chocolatiers",
+      "sortOrder": "30",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT031",
+      "categoryName": "Government Services",
+      "icon": "📋",
+      "file": "government-services.json",
+      "subCategories": "Passport,Aadhaar,PAN Card,RTO,Municipal Corporation,Post Office",
+      "sortOrder": "31",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT032",
+      "categoryName": "Utilities",
+      "icon": "⚡",
+      "file": "utilities.json",
+      "subCategories": "Electricity,Gas Agencies,Water Supply,Solar Panels,Generator",
+      "sortOrder": "32",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT033",
+      "categoryName": "Daily Use Services",
+      "icon": "🏪",
+      "file": "daily-use-services.json",
+      "subCategories": "Key Makers,Shoe Repair,Watch Repair,Umbrella Repair,Bag Repair",
+      "sortOrder": "33",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT034",
+      "categoryName": "Fitness Equipment",
+      "icon": "🏋️",
+      "file": "fitness-equipment.json",
+      "subCategories": "Gym Equipment Dealers,Sports Shops,Exercise Accessories",
+      "sortOrder": "34",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT035",
+      "categoryName": "Ayurveda & Wellness",
+      "icon": "🌿",
+      "file": "ayurveda-wellness.json",
+      "subCategories": "Ayurvedic Clinics,Panchakarma,Herbal Stores,Wellness Centers",
+      "sortOrder": "35",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT036",
+      "categoryName": "Coaches & Trainers",
+      "icon": "👨‍🏫",
+      "file": "coaches-trainers.json",
+      "subCategories": "Life Coaches,Personality Development,Public Speaking,Soft Skills",
+      "sortOrder": "36",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT037",
+      "categoryName": "Interior & Exterior Design",
+      "icon": "🎨",
+      "file": "interior-exterior-design.json",
+      "subCategories": "Interior Designers,Exterior Design,Landscape Design,Architects",
+      "sortOrder": "37",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT038",
+      "categoryName": "Consulting Services",
+      "icon": "📊",
+      "file": "consulting-services.json",
+      "subCategories": "Business Consultants,Legal Consulting,HR Consulting,Marketing Consulting",
+      "sortOrder": "38",
+      "status": "Active"
+    },
+    {
+      "categoryId": "CAT039",
+      "categoryName": "Specialty Stores",
+      "icon": "🏬",
+      "file": "specialty-stores.json",
+      "subCategories": "Organic Stores,Handicraft,Ethnic,Bridal Stores,Antiques",
+      "sortOrder": "39",
+      "status": "Active"
+    }
+  ]
+}
