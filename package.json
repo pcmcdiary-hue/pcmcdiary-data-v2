@@ -1,0 +1,11 @@
+{
+  "name": "pcmcdiary-data",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync.js"
+  },
+  "dependencies": {
+    "googleapis": "^128.0.0"
+  }
+}
