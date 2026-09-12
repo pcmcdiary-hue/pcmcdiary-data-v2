@@ -1,3 +1,301 @@
 {
-  "locations": []
+  "locations": [
+    {
+      "locationId": "LOC001",
+      "locationName": "Akurdi",
+      "zone": "South",
+      "pincode": "411035",
+      "lat": "18.6198",
+      "lng": "73.7635",
+      "sortOrder": "1"
+    },
+    {
+      "locationId": "LOC002",
+      "locationName": "Alandi",
+      "zone": "North",
+      "pincode": "412105",
+      "lat": "18.6776",
+      "lng": "73.8921",
+      "sortOrder": "2"
+    },
+    {
+      "locationId": "LOC003",
+      "locationName": "Balewadi",
+      "zone": "West",
+      "pincode": "411045",
+      "lat": "18.5803",
+      "lng": "73.7624",
+      "sortOrder": "3"
+    },
+    {
+      "locationId": "LOC004",
+      "locationName": "Baner",
+      "zone": "West",
+      "pincode": "411045",
+      "lat": "18.5613",
+      "lng": "73.7833",
+      "sortOrder": "4"
+    },
+    {
+      "locationId": "LOC005",
+      "locationName": "Bhosari",
+      "zone": "East",
+      "pincode": "411039",
+      "lat": "18.6407",
+      "lng": "73.846",
+      "sortOrder": "5"
+    },
+    {
+      "locationId": "LOC006",
+      "locationName": "Bopkhel",
+      "zone": "North",
+      "pincode": "411031",
+      "lat": "18.6632",
+      "lng": "73.8885",
+      "sortOrder": "6"
+    },
+    {
+      "locationId": "LOC007",
+      "locationName": "Chakan",
+      "zone": "North",
+      "pincode": "410501",
+      "lat": "18.7605",
+      "lng": "73.8672",
+      "sortOrder": "7"
+    },
+    {
+      "locationId": "LOC008",
+      "locationName": "Charholi Budruk",
+      "zone": "East",
+      "pincode": "412105",
+      "lat": "18.6824",
+      "lng": "73.9105",
+      "sortOrder": "8"
+    },
+    {
+      "locationId": "LOC009",
+      "locationName": "Chikhali",
+      "zone": "East",
+      "pincode": "411062",
+      "lat": "18.6506",
+      "lng": "73.8554",
+      "sortOrder": "9"
+    },
+    {
+      "locationId": "LOC010",
+      "locationName": "Chinchwad",
+      "zone": "Central",
+      "pincode": "411033",
+      "lat": "18.6298",
+      "lng": "73.7792",
+      "sortOrder": "10"
+    },
+    {
+      "locationId": "LOC011",
+      "locationName": "Dapodi",
+      "zone": "Central",
+      "pincode": "411012",
+      "lat": "18.6055",
+      "lng": "73.8017",
+      "sortOrder": "11"
+    },
+    {
+      "locationId": "LOC012",
+      "locationName": "Dehu Gaon",
+      "zone": "North",
+      "pincode": "412101",
+      "lat": "18.6977",
+      "lng": "73.8223",
+      "sortOrder": "12"
+    },
+    {
+      "locationId": "LOC013",
+      "locationName": "Dehu Road",
+      "zone": "North",
+      "pincode": "412101",
+      "lat": "18.6872",
+      "lng": "73.8355",
+      "sortOrder": "13"
+    },
+    {
+      "locationId": "LOC014",
+      "locationName": "Dighi",
+      "zone": "East",
+      "pincode": "411035",
+      "lat": "18.6215",
+      "lng": "73.8857",
+      "sortOrder": "14"
+    },
+    {
+      "locationId": "LOC015",
+      "locationName": "Dudulgaon",
+      "zone": "North",
+      "pincode": "410501",
+      "lat": "18.7802",
+      "lng": "73.8456",
+      "sortOrder": "15"
+    },
+    {
+      "locationId": "LOC016",
+      "locationName": "Hinjawadi",
+      "zone": "West",
+      "pincode": "411057",
+      "lat": "18.5942",
+      "lng": "73.7455",
+      "sortOrder": "16"
+    },
+    {
+      "locationId": "LOC017",
+      "locationName": "Kalewadi",
+      "zone": "West",
+      "pincode": "411057",
+      "lat": "18.6004",
+      "lng": "73.7523",
+      "sortOrder": "17"
+    },
+    {
+      "locationId": "LOC018",
+      "locationName": "Kiwale",
+      "zone": "West",
+      "pincode": "411046",
+      "lat": "18.5806",
+      "lng": "73.7288",
+      "sortOrder": "18"
+    },
+    {
+      "locationId": "LOC019",
+      "locationName": "Moshi",
+      "zone": "North",
+      "pincode": "411062",
+      "lat": "18.6754",
+      "lng": "73.8621",
+      "sortOrder": "19"
+    },
+    {
+      "locationId": "LOC020",
+      "locationName": "Nigdi",
+      "zone": "South",
+      "pincode": "411044",
+      "lat": "18.6205",
+      "lng": "73.7508",
+      "sortOrder": "20"
+    },
+    {
+      "locationId": "LOC021",
+      "locationName": "Nigdi-Pradhikaran",
+      "zone": "South",
+      "pincode": "411044",
+      "lat": "18.6162",
+      "lng": "73.7534",
+      "sortOrder": "21"
+    },
+    {
+      "locationId": "LOC022",
+      "locationName": "Pimpri",
+      "zone": "Central",
+      "pincode": "411018",
+      "lat": "18.63",
+      "lng": "73.8",
+      "sortOrder": "22"
+    },
+    {
+      "locationId": "LOC023",
+      "locationName": "Punawale",
+      "zone": "West",
+      "pincode": "411046",
+      "lat": "18.5752",
+      "lng": "73.7321",
+      "sortOrder": "23"
+    },
+    {
+      "locationId": "LOC024",
+      "locationName": "Rahatani",
+      "zone": "West",
+      "pincode": "411017",
+      "lat": "18.5995",
+      "lng": "73.7555",
+      "sortOrder": "24"
+    },
+    {
+      "locationId": "LOC025",
+      "locationName": "Rajgurunagar",
+      "zone": "North",
+      "pincode": "410505",
+      "lat": "18.8342",
+      "lng": "73.8754",
+      "sortOrder": "25"
+    },
+    {
+      "locationId": "LOC026",
+      "locationName": "Ravet",
+      "zone": "West",
+      "pincode": "411046",
+      "lat": "18.5699",
+      "lng": "73.7188",
+      "sortOrder": "26"
+    },
+    {
+      "locationId": "LOC027",
+      "locationName": "Sanghavi",
+      "zone": "Central",
+      "pincode": "411027",
+      "lat": "18.6402",
+      "lng": "73.8192",
+      "sortOrder": "27"
+    },
+    {
+      "locationId": "LOC028",
+      "locationName": "Talawade",
+      "zone": "Central",
+      "pincode": "411062",
+      "lat": "18.6254",
+      "lng": "73.8456",
+      "sortOrder": "28"
+    },
+    {
+      "locationId": "LOC029",
+      "locationName": "Talegaon Dabhade",
+      "zone": "North",
+      "pincode": "410506",
+      "lat": "18.7523",
+      "lng": "73.6799",
+      "sortOrder": "29"
+    },
+    {
+      "locationId": "LOC030",
+      "locationName": "Tathawade",
+      "zone": "West",
+      "pincode": "411057",
+      "lat": "18.5804",
+      "lng": "73.7388",
+      "sortOrder": "30"
+    },
+    {
+      "locationId": "LOC031",
+      "locationName": "Thergaon",
+      "zone": "West",
+      "pincode": "411033",
+      "lat": "18.6034",
+      "lng": "73.7567",
+      "sortOrder": "31"
+    },
+    {
+      "locationId": "LOC032",
+      "locationName": "Wadgaon Maval",
+      "zone": "North",
+      "pincode": "410506",
+      "lat": "18.7756",
+      "lng": "73.6688",
+      "sortOrder": "32"
+    },
+    {
+      "locationId": "LOC033",
+      "locationName": "Wakad",
+      "zone": "West",
+      "pincode": "411057",
+      "lat": "18.5905",
+      "lng": "73.7626",
+      "sortOrder": "33"
+    }
+  ]
 }
