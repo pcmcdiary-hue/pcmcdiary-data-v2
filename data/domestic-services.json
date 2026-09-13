@@ -172,7 +172,7 @@
     "locationCount": "ALL",
     "description": "Safe & eco-friendly pest control for homes. 15+ years experience. Ants, bed bugs, termites, rodents. Same-day service in PCMC.",
     "tier": "premium_pro",
-    "socialLinks": "MKG Pest Control Services in Pune offers reliable, high-quality solutions for common household infestations like ants, bed bugs, and termites at competitive prices. Backed by industry expertise, their team provides hassle-free, comprehensive pest management tailored to safeguard your property. Pune residents can enjoy a clean, pest-free environment with prompt, professional service designed for long-term peace of mind. We are committed to customer satisfaction and use safe, effective methods to protect your home and family.",
+    "socialLinks": "insta:https://instagram.com/mamt babycare|fb:https://facebook.com/mamt babycare",
     "timing": "Mon-Sun 7AM-9PM",
     "featured": "FALSE",
     "premium": "TRUE",
@@ -203,7 +203,7 @@
     "locationCount": "ALL",
     "description": "Safe & eco-friendly pest control for homes. 15+ years experience. Ants, bed bugs, termites, rodents. Same-day service in PCMC.",
     "tier": "premium_pro",
-    "socialLinks": "Jay Ganesh Pest Control and Home Cleaning Services provides end-to-end solutions, combining expert infestation removal with thorough deep cleaning for a completely refreshed property. From targeted treatments for termites, bed bugs, and ants to specialized sanitation, their team ensures your living and working spaces remain healthy and immaculate.",
+    "socialLinks": "insta:https://instagram.com/mamt babycare|fb:https://facebook.com/mamt babycare",
     "timing": "Mon-Sun 7AM-9PM",
     "featured": "FALSE",
     "premium": "TRUE",
@@ -214,7 +214,7 @@
     "reviews": "50",
     "deals": "20% OFF on Deep Cleaning Services",
     "dealCode": "CLEAN20; COMBO15; FREE",
-    "dealExpiry": "30 Sep 2026"
+    "dealExpiry": "2026-10-16"
   },
   {
     "businessId": "DS13",
@@ -234,7 +234,7 @@
     "locationCount": "ALL",
     "description": "Safe & eco-friendly pest control for homes. 15+ years experience. Ants, bed bugs, termites, rodents. Same-day service in PCMC.",
     "tier": "premium_pro",
-    "socialLinks": "Nidhi Pest Control Services in Pune offers reliable, high-quality solutions for common household and commercial pest infestations. With over 18 years of experience, we specialize in bed bugs, cockroach, termite, rodent, and mosquito control at competitive prices. Backed by industry expertise and PCAI approval, our team provides comprehensive pest management tailored to safeguard your property.",
+    "socialLinks": "insta:https://instagram.com/mamt babycare|fb:https://facebook.com/mamt babycare",
     "timing": "Mon-Sun 7AM-9PM",
     "featured": "FALSE",
     "premium": "TRUE",
@@ -245,6 +245,6 @@
     "reviews": "50",
     "deals": "20% OFF on Selected Services; Free Home Inspection; 10% OFF First Treatment",
     "dealCode": "PEST20; INSPECT1; WELCOME10",
-    "dealExpiry": "31 Dec 2026"
+    "dealExpiry": "2026-10-17"
   }
 ]
